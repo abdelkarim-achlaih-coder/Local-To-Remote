@@ -6,6 +6,6 @@
 
 
 
-- [x] HTML
-- [x] CSS
-- [x] Javascript
+- [] HTML
+- [] CSS
+- [] Javascript
